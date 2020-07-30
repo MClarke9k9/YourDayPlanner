@@ -165,6 +165,7 @@ $(document).ready(function() {
         })
     }
   
+    
     // Creates save button.
     var saveButton = $("<i class='far fa-save fa-lg'></i>")
     var savePlan = $("<button>")

@@ -1,3 +1,7 @@
+//
+//Created By Mark Clarke
+//
+
 $(document).ready(function() {
     var time = moment().format('MMMM Do YYYY h:mm:a');
     $("#time").append("<div>" + time + "</div>");

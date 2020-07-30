@@ -1,0 +1,66 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    background: url('/alexa-williams-ODjT0FbSA5U-unsplash.jpg') no-repeat center fixed;    
+      background-size: cover;
+  }
+  
+  textarea{
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+  }
+  
+  .description{
+    white-space: pre-wrap;
+  }
+  
+  .time-block{
+    text-align: center;
+    border-radius: 15px;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+  }
+  
+  .hour {
+    background-color: transparent;
+    
+  }
+  
+  .past {
+    background-color: grey;
+    color: transparent;
+  }
+  
+  .present {
+    background-color: transparent;
+    color: red;
+    border: 1px solid greenyellow;
+  }
+  
+  .future {
+    background-color: transparent;
+    color: green;
+    
+  }
+  
+  .saveBtn {
+    background-color: gainsboro;
+  }
+  
